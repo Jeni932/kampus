@@ -1,0 +1,2 @@
+# kampus
+untuk membuat struktur 
